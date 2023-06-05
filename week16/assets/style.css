@@ -1,0 +1,46 @@
+.block1 {
+  margin-top: 20px;
+}
+.block2 {
+  margin-top: 20px;
+}
+.block3 {
+  margin-top: 20px;
+}
+.button {
+  margin-top: 20px;
+}
+.name {
+  margin-bottom: 0;
+}
+.link {
+  margin-bottom: 0;
+}
+.comment1 {
+  margin-bottom: 0;
+}
+.comment {
+  border: 1px solid black;
+  margin: 20px;
+}
+.container__main {
+  display: grid;
+  grid-template-columns: 1fr 2fr;
+}
+.comment-text1 {
+  width: 170px;
+  height: 100px;
+}
+.container_result1 {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border: 2px solid red;
+  height: 200px;
+}
+.comment__avatar {
+  width: 100px;
+}
+.time {
+  margin: 10px;
+}
